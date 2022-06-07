@@ -1,0 +1,12 @@
+color= input('Enter your favorite color: ')
+food = input('Enter your favorite food: ')
+hubby = input('Enter your hubby: ')
+school = input('Enter your school: ')
+course = input('Enter your course: ')
+print('\n')
+
+print('Microwaves are ' + color + ' interiolly')
+print(food + ' is the best for burial ceremonies')
+print(hubby + ' is really dangerous')
+print('The best school is ' + school)
+print(course + ' is the toughest of all courses')
